@@ -1,1 +1,1 @@
-mysqldump -u root -p your_database_name > backup_your_database_name.sql
+DROP DATABASE your_database_name;
